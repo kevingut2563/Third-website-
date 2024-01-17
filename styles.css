@@ -1,22 +1,37 @@
-body{
+body {
     background-color: lightblue;
     color: aliceblue;
 }
-h1{
+
+h1 {
     color: aquamarine;
 }
-p{
+
+p {
     color: cornflowerblue;
 }
-img{
+
+img {
     border-radius: 50%;
 }
 
-#special{
-    color: #F5F5DC
-    ;
-    background-color:#6495ED ;
+#special {
+    color: #F5F5DC;
+    background-color: #6495ED;
 }
 
-#yap{ color: #F0F8FF;
+#yap {
+    color: #F0F8FF;
 }
+
+hr {
+    border: 2px blue;
+}
+
+#line {
+    color: blue;
+}
+
+ol{color: cadetblue;}
+
+ul{color: darkcyan;}
